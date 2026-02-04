@@ -14,7 +14,7 @@ Este proyecto implementa un **Sistema de Recuperación de Información Avanzado*
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 * **Lenguaje:** Python 3.10+
 * **Interfaz:** Streamlit
